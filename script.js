@@ -1,4 +1,6 @@
+
 "User Strict"
+
 const service_id="service_m2x4ib1"
 const temp_id="template_7wede3k"
 const form=document.querySelector('#form');
@@ -41,5 +43,6 @@ function hideLoader(){
     $('.page-loader').fadeOut('slow');
   }
 
+//date picker
 
 
